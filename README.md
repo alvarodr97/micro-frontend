@@ -7,7 +7,7 @@ Los distintos módulos (container, marketing, auth y dashboard) se pueden trabaj
 Estos cambios se suben a **Amazon Web Services**, en concreto a un **S3 Bucket**, donde se muestra una página estática. Con **Cloudfront** se expone este bucket, y según los comandos fijados se invalida la caché de los archivos necesarios para mostrar los nuevos cambios.
 
 
-Tecnologías utilizadas:
+## ***Tecnologías utilizadas***:
 - React
 - React Router
 - Vue
